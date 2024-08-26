@@ -1,4 +1,4 @@
-![logo](https://github.com/prernarohra/Prerna-Rohra/blob/main/Banner.png)
+![logo](https://github.com/prernarohra/Prerna-Rohra/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Prerna Rohra</h1>
 <h3 align="center">Girl who works with data and AI.</h3>
 
