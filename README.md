@@ -1,4 +1,5 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fankitkumarakt746.medium.com%2Fartificial-intelligence-and-its-uses-47dfc6a7f672&psig=AOvVaw1Z5ilNpktIcbuMJzjAzzlA&ust=1726761868469000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiJx6_vzIgDFQAAAAAdAAAAABAt)
+<img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://www.google.com/url?sa=i&url=https%3A%2F%2Fankitkumarakt746.medium.com%2Fartificial-intelligence-and-its-uses-47dfc6a7f672&psig=AOvVaw1Z5ilNpktIcbuMJzjAzzlA&ust=1726761868469000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiJx6_vzIgDFQAAAAAdAAAAABAt
+).gif>
 ![logo](https://github.com/prernarohra/Prerna-Rohra/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Prerna Rohra</h1>
 <h3 align="center">Girl who works with data and AI.</h3>
