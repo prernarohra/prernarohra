@@ -1,4 +1,3 @@
-<img align="right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fankitkumarakt746.medium.com%2Fartificial-intelligence-and-its-uses-47dfc6a7f672&psig=AOvVaw1Z5ilNpktIcbuMJzjAzzlA&ust=1726761868469000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiJx6_vzIgDFQAAAAAdAAAAABAt.gif>
 ![logo](https://github.com/prernarohra/Prerna-Rohra/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Prerna Rohra</h1>
 <h3 align="center">Girl who works with data and AI.</h3>
