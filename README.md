@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **LLMs and Transformers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prernarohra/My-Portfolio-.git](https://github.com/prernarohra/My-Portfolio-.git)
+- 👨‍💻 All of my projects are available at [https://github.com/prernarohra?tab=repositories](https://github.com/prernarohra?tab=repositories)
 
 - 💬 Ask me about **anything related to AI/Data Science**
 
