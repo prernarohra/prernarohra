@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prernarohra&label=Profile%20views&color=0e75b6&style=flat" alt="prernarohra" /> </p>
 
-- 🔭 I’m currently working on **Data Science/AI**
+- 🔭 I’m currently working as an **AI Engineer**
 
 - 🌱 I’m currently learning **LLMs and Transformers**
 
